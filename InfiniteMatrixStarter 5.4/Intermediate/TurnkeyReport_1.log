@@ -1,2 +1,0 @@
-Mac: (Status=Valid, MinAllowed_Sdk=14.1.0, MaxAllowed_Sdk=16.9.0, Current_Sdk=15.4, Allowed_AutoSdk=14.1, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
-Mac@Apurvs-MBP: (Name=Apurvs-MBP, Type=Computer, Status=Valid, MinAllowed=13.00, MaxAllowed=, Current=14.6.1, Flags="Device_InstallSoftwareValid")
